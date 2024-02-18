@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Fictitious Spaceship Manufacturing company'
+theme="hello-friend-ng"
