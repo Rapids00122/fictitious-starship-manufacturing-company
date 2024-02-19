@@ -1,0 +1,4 @@
+  command = "hugo"
+  publish = "public"
+  # Specify Hugo version
+  environment = { HUGO_VERSION = "0.122.0" }
