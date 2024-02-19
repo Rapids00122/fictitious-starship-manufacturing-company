@@ -1,0 +1,12 @@
+baseurl = "/"
+title = "Julia training"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+buildFuture = true
+
+footnotereturnlinkcontents = "↩"
+relativeURLs = true
+uglyURLs = true
+enableEmoji = true

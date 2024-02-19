@@ -1,4 +1,6 @@
-  command = "hugo"
+[build]
   publish = "public"
-  # Specify Hugo version
-  environment = { HUGO_VERSION = "0.122.0" }
+  command = "hugo"
+
+[context.production.environment]
+  HUGO_VERSION = "0.122.0"
