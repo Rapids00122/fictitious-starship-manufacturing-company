@@ -1,6 +1,6 @@
-baseurl      = "localhost"
-title        = "My Blog"
+baseURL = "https://localhost:1313/"
 languageCode = "en-us"
+title = "Starship Company"
 theme        = "hello-friend-ng"
 paginate     = 10
 
